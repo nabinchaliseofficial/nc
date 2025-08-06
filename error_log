@@ -1,0 +1,3 @@
+[31-Oct-2018 16:42:07 UTC] PHP Notice:  Undefined index: fullname in /home/pilotprosoft/public_html/email.php on line 2
+[31-Oct-2018 16:42:07 UTC] PHP Notice:  Undefined index: email in /home/pilotprosoft/public_html/email.php on line 3
+[31-Oct-2018 16:42:07 UTC] PHP Notice:  Undefined index: message in /home/pilotprosoft/public_html/email.php on line 4
